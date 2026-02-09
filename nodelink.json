@@ -30,6 +30,18 @@
         }
     },
     {
+    "title": "Cason Node 1",
+    "host": "45.143.196.146",
+    "port": "25566",
+    "password": "NodelinkPublic",
+    "secure": false,
+    "sslHost": null,
+    "author": {
+        "name": "Cason / Love_the_cats_and_dogs",
+        "website": "https://nexusdashboard.xyz"
+        }
+    }.
+    {
         "title": "Frankfurt Node 1",
         "host": "fr1-nodelink.nyxbot.app",
         "port": "3000",
